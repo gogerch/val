@@ -22,7 +22,7 @@ fun main() {
 
     //вещественные
     val doubleNum: Double = 234.44 // 64bit
-    van floatNum: Float = 232.5f // 32bit
+    van floatNum : Float = 232.5f // 32bit
 
     // строковые
     val stringValue: String = "Это строка"
