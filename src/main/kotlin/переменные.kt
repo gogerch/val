@@ -4,13 +4,13 @@ fun main() {
 
     val numberOfOrders: Int = 34
 
-    var notificationText: String = "Помой жопу"
+    var notificationText1: String = "Помой жопу"
 
     println(numberOfOrders)
-    println(notificationText)
+    println(notificationText1)
 
-    notificationText = "Жопу больше не мой"
-    println(notificationText)
+    notificationText1 = "Жопу больше не мой"
+    println(notificationText1)
 
     //целочисленные
     val intNum1: Int = -2147483648 // 32bit
@@ -22,7 +22,7 @@ fun main() {
 
     //вещественные
     val doubleNum: Double = 234.44 // 64bit
-    van floatNum : Float = 232.5f // 32bit
+    val floatNum : Float = 232.5f // 32bit
 
     // строковые
     val stringValue: String = "Это строка"
